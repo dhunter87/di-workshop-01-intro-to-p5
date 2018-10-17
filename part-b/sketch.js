@@ -6,7 +6,7 @@ function setup() {
 function draw() {
   fill(255, 0, 0)
   stroke(0, 0, 0)
-  triangle(mouseX, mouseY, 58, 20, 86, 75)
+  triangle(mouseX, mouseY, mouseX + 30,  mouseY + 90, mouseX + 75, mouseY + 10)
 }
 
 
