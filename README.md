@@ -340,4 +340,4 @@ if (keyIsPressed) {
 
 1. added funtionality for mouse to only draw if the mouse button is pressed.
 2. added funtionality for the colour to change depending on what keyboard key is pressed.
-3. added functionality to change @brush@ shape tpo a triangle.
+3. added functionality to change "brush" shape to a triangle.
