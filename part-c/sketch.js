@@ -15,7 +15,6 @@ function draw() {
       fill(0, 0, 255)
     }     
     
-  
   }
   if (mouseIsPressed) {
     if(key == 't'){
