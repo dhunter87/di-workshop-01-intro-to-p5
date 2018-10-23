@@ -13,6 +13,11 @@ function draw() {
     }
     if(key == 'b'){
       fill(0, 0, 255)
+    
+    }  
+    if(key == 'b'){
+      fill(0, 0, 0)
+    
     }     
     
   }
