@@ -338,6 +338,6 @@ if (keyIsPressed) {
 - Change the size of the brush based on a key pressed.
 
 
-1. added funtionality for mouse to only draw if the mouse button is pressed.
-2. added funtionality for the colour to change depending on what keyboard key is pressed.
-3. added functionality to change "brush" shape to a triangle.
+1. added funtionality for mouse to only draw if the mouse button is pressed. _ DONE
+2. added funtionality for the colour to change depending on what keyboard key is pressed. - DONE
+3. added functionality to change "brush" shape to a triangle. - DONE

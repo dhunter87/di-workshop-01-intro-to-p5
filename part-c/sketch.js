@@ -15,7 +15,7 @@ function draw() {
       fill(0, 0, 255)
     
     }  
-    if(key == 'b'){
+    if(key == 'k'){
       fill(0, 0, 0)
     
     }     
@@ -23,7 +23,7 @@ function draw() {
   }
   if (mouseIsPressed) {
     if(key == 't'){
-      triangle(mouseX, mouseY, mouseX + 30,  mouseY + 90, mouseX + 75, mouseY + 10)
+      triangle(mouseX, mouseY, mouseX + 50,  mouseY + 75, mouseX + 100, mouseY)
     } else{
       ellipse(mouseX, mouseY, 30, 30)
     }
